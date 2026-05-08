@@ -2,7 +2,7 @@
 I am currently a Student in Pune Institute of Computer Technology [PICT] for the branch Electronics and computer and currently learning Web-Dev, Python, C++ and DSA
 
 
-## Socials:
+# Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durveshspatil5@gmail.com) 
 
 # Tech Stack:
