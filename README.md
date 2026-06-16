@@ -1,5 +1,5 @@
 # About Me:
-I am currently a Student in Pune Institute of Computer Technology [PICT] for the branch Electronics and Computer and currently learning Web-Dev, Python, C++ and DSA
+I am currently a Student in Pune Institute of Computer Technology (PICT) for the branch Electronics and Computer and currently learning Web-Dev, Python, C++ and DSA
 
 
 # Socials:
