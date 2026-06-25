@@ -1,5 +1,5 @@
 # About Me:
-I am currently a Student in Pune Institute of Computer Technology (PICT) for the branch Electronics and Computer and currently learning Web-Dev, Python, C++ and DSA
+Electronics & Computer Engineering student at PICT, currently reverse-engineering the stack. I build with Python and C++, solve problems with algorithmic efficiency, and spend my downtime dismantling Web-Dev architectures just to see how they tick. I don’t just write code; I look for the gaps where I can break, optimize, and rebuild.
 
 
 ## Socials:
