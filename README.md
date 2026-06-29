@@ -1,7 +1,5 @@
 # About Me:
-Electronics & Computer Engineering student at PICT, currently reverse-engineering the stack. I build with Python and C++, architecting high-performance FinTech solutions like TrueBalance and solving complex DSA challenges to push algorithmic boundaries. 
-My workflow is anchored in Backend Development, where I dismantle architectures to optimize logic, eliminate latency, and rebuild systems for maximum efficiency. I Iam an active open-source contributor, treating every pull request as a professional commitment to improve project health and documentation.
-I thrive at the intersection of hardware constraints and software ambition, constantly stress-testing my code to ensure it’s built to scale—not just to function.
+Electronics & Computer Engineering student at PICT, currently reverse-engineering the stack. I build with Python and C++, architecting high-performance FinTech solutions like TrueBalance and solving complex DSA challenges to push algorithmic boundaries. My workflow is anchored in Backend Development, where I dismantle architectures to optimize logic, eliminate latency, and rebuild systems for maximum efficiency. I Iam an active open-source contributor, treating every pull request as a professional commitment to improve project health and documentation.I thrive at the intersection of hardware constraints and software ambition, constantly stress-testing my code to ensure it’s built to scale—not just to function.
 
 
 ## Socials:
