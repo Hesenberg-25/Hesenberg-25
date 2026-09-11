@@ -2,8 +2,8 @@
 
 Electronics &amp; Computer Engineering student at PICT, currently reverse-engineering the stack. I build with Python and C++, architecting high-performance FinTech solutions like TrueBalance and solving complex DSA challenges to push algorithmic boundaries. My workflow is anchored in Backend Development, where I dismantle architectures to optimize logic, eliminate latency, and rebuild systems for maximum efficiency. I Iam an active open-source contributor, treating every pull request as a professional commitment to improve project health and documentation.I thrive at the intersection of hardware constraints and software ambition, constantly stress-testing my code to ensure it’s built to scale—not just to function.
 
-🔭 &nbsp;I'm currently working on **BackEnd in Python**  
-🌱 &nbsp;I'm currently learning **Electronic and Computer**
+🔭 &nbsp;I'm currently working on **Backend in Python and Java along with AIML**  
+🌱 &nbsp;I'm currently learning **Electronics and Computer**
 
 ## 🛠️ Tech Stack
 
@@ -11,16 +11,15 @@ Electronics &amp; Computer Engineering student at PICT, currently reverse-engine
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
 
 ## 🔗 Connect With Me
 
